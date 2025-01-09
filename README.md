@@ -42,12 +42,12 @@ Este projeto explora a integração de Large Language Models (LLMs) com uma API 
    python app.py  
    ```
 3. Inicie o frontend
-   ```bash
+  ```bash
   cd frontend  
   npm install  
   npm start  
   ```
-4. Acesse o frontend ```bash http://localhost:3000``` e interaja com o LLM.
+4. Acesse o frontend **http://localhost:3000** e interaja com o LLM.
 
 ## Contribuição
 

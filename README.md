@@ -2,12 +2,11 @@
 
 Este projeto explora a integração de Large Language Models (LLMs) com uma API desenvolvida em Python e uma interface frontend construída em React. O objetivo foi criar uma aplicação prática que conectasse o poder dos modelos de linguagem a uma interface intuitiva, simulando uma interação fluida entre backend e frontend.  
 
-<img src="https://github.com/user-attachments/assets/3cc29fc6-87fe-4f32-966a-1373798ddf86" alt="Simulator Screenshot 1" width="200">
+<img src="https://github.com/user-attachments/assets/f7f16960-b2db-41b6-a60c-ed07a343c949" alt="Simulator Screenshot 1" width="200">
 
-<img src="https://github.com/user-attachments/assets/919852ca-f11e-47d6-98e0-9b62731e3264" alt="Simulator Screenshot 2" width="200">
+<img src="https://github.com/user-attachments/assets/b753af1a-6eca-45ff-8cd6-1c8872ca1907" alt="Simulator Screenshot 2" width="200">
 
-<img src="https://github.com/user-attachments/assets/c4cef65d-b832-48b5-9222-861a1f873756" alt="Simulator Screenshot 3" width="200">
-
+<img src="https://github.com/user-attachments/assets/c1372b50-dab7-4d80-8b24-b80fad5b02e1" alt="Simulator Screenshot 3" width="200">
 
 ## Funcionalidades  
 - **Interação com LLM:** O backend utiliza uma API para enviar prompts ao modelo de linguagem e retornar respostas.  
